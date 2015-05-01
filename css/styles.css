@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background-image: url('../img/background.jpg');
+  background-image: url('../img/background3.jpg');
   background-size: cover !important;
   background-repeat: no-repeat;
   color: white;
@@ -109,7 +109,7 @@ h4 {
 }
 
 .count {
-  background-color: #000000;
+  background-color: rgba(0, 0, 0, .6);
 }
 
 img {
